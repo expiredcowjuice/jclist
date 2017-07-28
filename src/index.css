@@ -126,7 +126,7 @@ ul {
   background-color: transparent;
   margin-top: 20px;
   align-items: center;
-  font-size: 20px;
+  font-size: 24px;
   color: #5c5d60;
   font-weight: bold
 }
@@ -140,6 +140,8 @@ ul {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;  
+  display: inline-block;
+  width: 15px;
 }
 
 .search {
